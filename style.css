@@ -58,3 +58,7 @@ li{
   text-decoration:line-through;
   color:gray;
 }
+button:hover{
+  background:#005fa3;
+  transition:0.3s;
+}
